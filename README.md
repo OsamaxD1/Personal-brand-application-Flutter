@@ -15,4 +15,5 @@ Flutter base animated profile for any brand or personal detail link to web using
 - Scrollable view
 
 **Pull Request**
+
 I welcome and encourage all pull requests.
