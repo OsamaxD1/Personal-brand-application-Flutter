@@ -1,4 +1,4 @@
-# Personal-brand-application-Flutter
+# Personal Brand Application Flutter
 Flutter base animated profile for any brand or personal detail link to web using buttons
 
 **Screenshot**
